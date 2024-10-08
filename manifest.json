@@ -20,5 +20,9 @@
   ],  "start_url": ".",
   "display": "standalone",
   "theme_color": "#ffffff",
-  "background_color": "#2a3a52"
+  "background_color": "#2a3a52",
+  "related_applications": [{
+    "platform": "webapp",
+    "url": "https://www.lunarcalendar.app/manifest.json"
+ }]
 }
